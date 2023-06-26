@@ -1,0 +1,40 @@
+body {
+    font-family: 'Font1', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  h1 {
+    font-family: 'Font2', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .author {
+    font-style: italic;
+  }
+  
+  .date {
+    font-weight: bold;
+  }
+  
+  .excerpt {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center; /* Add this line to center the text */
+  }
+  
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #ff0000;
+  }
+  
+  a.info-link {
+    color: blue;
+  }
